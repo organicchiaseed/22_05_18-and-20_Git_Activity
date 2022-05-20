@@ -12,4 +12,9 @@ __
 2. ONA Coffee (the best single origin in Australia)
 3. Late'
 
+# List of Nice Cafes in Sydney by Ando
+- Paramount Coffee Project, Surry Hills
+- Mecca, Alexandria
+- Coffee Alchemy, Marrickville
+
 Test
